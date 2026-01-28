@@ -1,6 +1,6 @@
 Hi, I’m Saivarshitha 👋
 
-I’m an Electrical Engineering graduate from IIT Basar and I’m currently learning and building my skills as a Data Analyst. I enjoy working with data, understanding patterns, and turning raw data into meaningful insights that can help in decision-making.
+I’m an Electrical Engineering graduate from Rajiv Gandhi University Of Knowledge Technologies, Basar and I’m currently learning and building my skills as a Data Analyst. I enjoy working with data, understanding patterns, and turning raw data into meaningful insights that can help in decision-making.
 
 I started my journey with data analysis during my graduation, where I worked on multiple academic and practical projects. Since then, I’ve been improving my skills in SQL, Python, Excel, and Power BI by practicing on real datasets and building small proj
 
